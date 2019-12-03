@@ -1,9 +1,9 @@
-[![Build Status](https://travis-ci.com/CHANGEME.svg?branch=master)](https://travis-ci.com/CHANGEME)
+[![Build Status](https://travis-ci.com/chapman-phys220-2019f/final-jonahrubin7.svg?token=CjcxcxfhoPrYocqFhfkC&branch=master)](https://travis-ci.com/chapman-phys220-2019f/final-jonahrubin7)
 
 # PHYS220/MATH220 Final Project
 
 **Author:**
-CHANGEME
+Jonah Rubin
 
 ## Specification
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Jonah Rubin
