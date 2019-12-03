@@ -1,0 +1,12 @@
+language: python
+python:
+  - 3.7
+# command to install dependencies
+install:
+  - pip install --upgrade pip setuptools wheel
+  - pip install --only-binary=numpy scipy pylint sympy numpy pandas matplotlib
+# command to run tests
+script:
+  - nosetests
+notifications:
+  email: false
